@@ -7,6 +7,7 @@ Projeto criado em Python para praticar lógica de programação.
 - Subtração
 - Multiplicação
 - Divisão
+- conversor de real para dolar
 
 ## Tecnologias
 - Python 3
